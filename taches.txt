@@ -1,3 +1,5 @@
 1- Collecte, nettoyage et préparation des données pour l'entraînement des modèles.
 2- Conception et implémentation de modèles de machine learning ou deep learning.
 3- Évaluation des performances des modèles à l'aide de métriques appropriées (accuracy, précision, rappel, F1-score, etc.).
+4- Optimisation des hyperparamètres et amélioration des performances du modèle.
+5- Déploiement du modèle et intégration dans une application ou une API.	
